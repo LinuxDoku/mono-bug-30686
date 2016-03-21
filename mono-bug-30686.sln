@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mono-bug-30686", "mono-bug-30686\mono-bug-30686.csproj", "{62BC1CD3-A779-4B9E-A8A2-8CB5730BE84F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62BC1CD3-A779-4B9E-A8A2-8CB5730BE84F}.Debug|x86.ActiveCfg = Debug|x86
+		{62BC1CD3-A779-4B9E-A8A2-8CB5730BE84F}.Debug|x86.Build.0 = Debug|x86
+		{62BC1CD3-A779-4B9E-A8A2-8CB5730BE84F}.Release|x86.ActiveCfg = Release|x86
+		{62BC1CD3-A779-4B9E-A8A2-8CB5730BE84F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = mono-bug-30686\mono-bug-30686.csproj
+	EndGlobalSection
+EndGlobal
